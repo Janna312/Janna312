@@ -1,8 +1,5 @@
 ### Hi, my name is Janna! 👋
 
-<!--
-**Janna312/Janna312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
   ✨ **And I want to be the greatest QA Engineer!**
 
 - 🌱 I’m currently studying the software testing theory with S.Kulikovs's.
