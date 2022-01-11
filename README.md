@@ -1,6 +1,6 @@
-   ### Hi, my name is Janna! 👋
+   # Hi, my name is Janna! 👋
 
-  ✨ **And I want to be the greatest QA Engineer!**
+  ##✨ **And I want to be the greatest QA Engineer!**
 
 - 🌱 I’m currently studying the software testing theory with S.Kulikovs's.
 - 🗺️ I explore tools as a beginner: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm.
